@@ -1,2 +1,2 @@
-# proyecto04
+# Proyecto04
 Tarea en React Certus
